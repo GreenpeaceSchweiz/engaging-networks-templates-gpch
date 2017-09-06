@@ -55,7 +55,8 @@ body.pb {
 .pb .en__component--row--2 .en__component--column--1 {
     padding: 36px;
     background-color: #0b5bc1;
-    margin-top: -54px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .pb .en__component--row--2 .en__component--column--2 {
     padding: 54px 36px 54px 36px;
